@@ -12,18 +12,7 @@ class Data:
  ├ /help - Bantuan Perintah Bot ini
  ├ /ping - Untuk mengecek bot hidup
  └ /uptime - Untuk melihat status bot 
- 
- ❏ Perintah Untuk Admin BOT
- ├ /logs - Untuk melihat logs bot
- ├ /setvar - Untuk mengatur var dengan command dibot
- ├ /delvar - Untuk menghapus var dengan command dibot
- ├ /getvar - Untuk melihat salah satu var dengan command dibot
- ├ /users - Untuk melihat statistik pengguna bot
- ├ /batch - Untuk membuat link lebih dari satu file
- ├ /speedtest - Untuk Mengetes kecepatan server bot
- └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
-
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+ 👨‍💻 Develoved by </b><a href='https://t.me/rjlewe'>@rjlewe</a>
 """
 
     close = [
@@ -47,11 +36,11 @@ class Data:
     ABOUT = """
 <b>Tentang Bot ini:
 
-@{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
+@{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link @VVIP_VIRAL_GRATIS.
 
  • Creator: @{}
- • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/mrismanaziz/File-Sharing-Man'>File-Sharing-Man v4</a>
+ • Framework: <a href='#'>Pyrogram</a>
+ • Source Code: <a href='https://t.me/VVIP_VIRAL_GRATIS'>VVIP GRATIS</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/Lunatic0de/101'>@Lunatic0de</a>
+👨‍💻 Develoved by </b><a href='https://t.me/rjlewe/101'>@rjlewe</a>
 """
